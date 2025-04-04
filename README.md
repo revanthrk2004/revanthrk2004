@@ -11,8 +11,7 @@ My interests lie in data analysis, predictive modeling, and automation — with 
 
 ### 📌 Highlight Projects
 - **Phonelert** – An end-to-end mobile alert system I built solo, from backend logic to front-end design.
-- **AI Budgeting App** – Designed to help users save, invest, and budget smarter with motivation-based alerts.
-- **Fraud Detection Model** – Built a machine learning model that flagged anomalies in transactional data (1st place in a Revolut hackathon challenge).
+- **AI Customization Option for Amazon** – Designed to help users to customize what product they want and to design it.
 
 ### 🧠 Always Learning
 Currently exploring advanced AI topics, real-time data processing, and data storytelling for business impact.
